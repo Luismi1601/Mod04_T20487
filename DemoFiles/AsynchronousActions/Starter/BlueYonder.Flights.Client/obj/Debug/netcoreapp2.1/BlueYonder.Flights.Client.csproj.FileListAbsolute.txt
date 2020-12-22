@@ -1,0 +1,12 @@
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.runtimeconfig.json
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.runtimeconfig.dev.json
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.dll
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\bin\Debug\netcoreapp2.1\BlueYonder.Flights.Client.pdb
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.dll
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.pdb
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\AsynchronousActions\Starter\BlueYonder.Flights.Client\obj\Debug\netcoreapp2.1\BlueYonder.Flights.Client.genruntimeconfig.cache

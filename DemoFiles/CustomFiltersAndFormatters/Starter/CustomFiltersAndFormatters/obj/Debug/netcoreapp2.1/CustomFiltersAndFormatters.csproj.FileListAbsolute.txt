@@ -1,0 +1,17 @@
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.runtimeconfig.json
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.runtimeconfig.dev.json
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.dll
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.pdb
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.RazorAssemblyInfo.cache
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.RazorAssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.RazorTargetAssemblyInfo.cache
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.dll
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.pdb
+C:\Curso\20487\Luismi\Tareas\Mod04\DemoFiles\CustomFiltersAndFormatters\Starter\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.genruntimeconfig.cache
